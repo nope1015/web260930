@@ -44,12 +44,12 @@ div::after {
 }
 
 a{
- text-decoration: none;
+  text-decoration: none;
   color: orange;
 }
 
 a:visited {
- color: #D40000; 
+  color: #D40000; 
 }
 
 a:hover {
